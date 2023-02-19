@@ -52,7 +52,8 @@ Step 5:
         localhost:8080
 
 
-demo-website-docker.png![image](https://user-images.githubusercontent.com/13016369/219940388-f1bd639f-4b1d-49bf-8af7-56bfd9cc666a.png)
+[image](https://user-images.githubusercontent.com/13016369/219940612-668fccb0-6de9-4ef9-a212-3979ec090ab5.png)
+
 
 
 
