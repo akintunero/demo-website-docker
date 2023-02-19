@@ -11,6 +11,9 @@ This demo app is a sample Static Webiste built with
 
 This demo website uses docker volume to share the website files thats built locally with docker.
 
+
+![image](https://user-images.githubusercontent.com/13016369/219940663-68f7de40-7b0d-4834-beae-81d89f6b0a7e.png)
+
 ### To install NGINX
 
 Step 1:
@@ -52,13 +55,6 @@ Step 5:
         localhost:8080
 
 
-![image](https://user-images.githubusercontent.com/13016369/219940663-68f7de40-7b0d-4834-beae-81d89f6b0a7e.png)
-
-
-
-
-
-        
 
 Website Credit:
 
